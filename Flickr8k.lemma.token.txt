@@ -16998,11 +16998,11 @@
 219730733_6a55382dd2.jpg#2	A man take a child on a ride at a fair .
 219730733_6a55382dd2.jpg#3	An amusement park .
 219730733_6a55382dd2.jpg#4	A man in short hold a girl 's hand as he lead her along a fence .
-2258277193_586949ec62.jpg.1#0	person wait for a subway
-2258277193_586949ec62.jpg.1#1	Some person look out window in a large building .
-2258277193_586949ec62.jpg.1#2	Three person be wait on a train platform .
-2258277193_586949ec62.jpg.1#3	Three person stand at a station .
-2258277193_586949ec62.jpg.1#4	two woman and one man stand near train track .
+2258277193_586949ec62.jpg#0	person wait for a subway
+2258277193_586949ec62.jpg#1	Some person look out window in a large building .
+2258277193_586949ec62.jpg#2	Three person be wait on a train platform .
+2258277193_586949ec62.jpg#3	Three person stand at a station .
+2258277193_586949ec62.jpg#4	two woman and one man stand near train track .
 2260369648_e21ae6494a.jpg#0	A woman in a march band uniform hold out her arm to another woman .
 2260369648_e21ae6494a.jpg#1	A girl in a march band comfort her fellow teammate .
 2260369648_e21ae6494a.jpg#2	Two band member be wear hat with yellow feather .
