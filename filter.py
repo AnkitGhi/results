@@ -1,4 +1,4 @@
-# python filter.py ./ExpertAnnotations.txt filtered_annotations.txt
+# python filter.py ./ExpertAnnotations.txt ./filtered_annotations.txt
 
 import sys
 from pathlib import Path
